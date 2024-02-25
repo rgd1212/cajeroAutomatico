@@ -1,0 +1,21 @@
+
+header{
+    text-align: center;
+    
+}
+
+main{
+    display: flex;
+    justify-content: center;
+
+}
+main form{
+    display: flex;
+    flex-direction: column;
+
+}
+
+main div{
+    display: flex;
+    flex-direction: column;
+}
